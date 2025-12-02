@@ -1,9 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "workbench.colorTheme": "Tomorrow Night Blue",
-    "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
-    "workbench.preferredHighContrastLightColorTheme": "Monokai",
-    "C_Cpp.inactiveRegionBackgroundColor": "purple",
-    "C_Cpp.inactiveRegionForegroundColor": "red",
-    "terminal.integrated.tabs.defaultColor": "terminal.ansiRed"
-}
