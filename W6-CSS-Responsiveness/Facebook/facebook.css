@@ -1,0 +1,30 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+}
+#facebook {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+.header-left {
+    flex: 1;
+}
+.header-right {
+    text-align: right;
+}
+.header-photo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ccc;
+}
